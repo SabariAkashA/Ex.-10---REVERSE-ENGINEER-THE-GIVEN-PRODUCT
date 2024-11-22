@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img src=https://github.com/user-attachments/assets/2625c399-2bf5-4510-8315-7a020ad5ea28 width=400 height=300>
 
 ### Output:
+<img src=https://github.com/user-attachments/assets/f8b1e3d5-969f-435b-b6cc-a712ddd9c8f9 width=400 height=300>
 
 
-### Name:
-### Register Number:
+
+
+
+### Name: SABARI AKASH A
+### Register Number: 212222230124
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
